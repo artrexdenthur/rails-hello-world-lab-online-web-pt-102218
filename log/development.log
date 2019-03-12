@@ -108,3 +108,6 @@ Started GET "/hello_world" for 73.181.106.207 at 2019-03-12 15:41:21 +0000
 Processing by ApplicationController#hello_world as HTML
   Rendering application/hello_world.html within layouts/application
   Rendered application/hello_world.html within layouts/application (0.4ms)
+Completed 200 OK in 444ms (Views: 442.5ms | ActiveRecord: 0.0ms)
+
+
